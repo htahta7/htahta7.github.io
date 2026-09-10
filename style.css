@@ -1,4 +1,23 @@
 
+/* BACKGROUND PAGE COLOR */
 body {
   background-color: lightBlue;
+}
+
+/* HEADINGS */ 
+/* H1 -- LARGE HEADING SIZE */
+h1 {
+  font-size: 40px;
+}
+
+/* H2 -- MEDIUM HEADING SIZE */
+h2 {
+  font-size: 32px;
+}
+
+
+/* PARAGRAPHS */
+/* P -- PARAGRAPH SIZE */
+p {
+  font-size: 20px;
 }
